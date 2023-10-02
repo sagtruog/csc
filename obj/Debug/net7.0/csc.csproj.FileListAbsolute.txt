@@ -1,0 +1,14 @@
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\bin\Debug\net7.0\csc.exe
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\bin\Debug\net7.0\csc.deps.json
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\bin\Debug\net7.0\csc.runtimeconfig.json
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\bin\Debug\net7.0\csc.dll
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\bin\Debug\net7.0\csc.pdb
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\obj\Debug\net7.0\csc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\obj\Debug\net7.0\csc.AssemblyInfoInputs.cache
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\obj\Debug\net7.0\csc.AssemblyInfo.cs
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\obj\Debug\net7.0\csc.csproj.CoreCompileInputs.cache
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\obj\Debug\net7.0\csc.dll
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\obj\Debug\net7.0\refint\csc.dll
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\obj\Debug\net7.0\csc.pdb
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\obj\Debug\net7.0\csc.genruntimeconfig.cache
+C:\Users\cptech\Desktop\ALL\CPTECH\demo\csc\obj\Debug\net7.0\ref\csc.dll
